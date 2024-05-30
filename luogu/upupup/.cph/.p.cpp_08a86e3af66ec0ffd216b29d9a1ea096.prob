@@ -1,0 +1,1 @@
+{"name":"Local: p","url":"e:\\cppcode\\luogu\\upupup\\p.cpp","tests":[{"id":1701088788191,"input":"6\n321 32 407 135 13 217","output":"4073232121713513"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cppcode\\luogu\\upupup\\p.cpp","group":"local","local":true}
