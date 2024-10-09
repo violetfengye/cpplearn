@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "(gdb) Launch", 
       "type": "cppdbg", 
@@ -12,7 +13,7 @@
       "environment": [],
       "externalConsole": true, 
       "MIMode": "gdb",
-      "miDebuggerPath": "D:\\vscode\\mingw\\bin\\gdb.exe",
+      "miDebuggerPath": "D:\\MinGW\\bin\\gdb.exe",
       "preLaunchTask": "g++",
       "setupCommands": [
         {

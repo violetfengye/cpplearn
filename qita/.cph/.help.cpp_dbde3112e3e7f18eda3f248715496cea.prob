@@ -1,1 +1,0 @@
-{"name":"Local: help","url":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\qita\\help.cpp","tests":[{"id":1699619020602,"input":"3\n5\nATCGT\n6\nACATGT\n5\nATCGU","output":"6\n21\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\qita\\help.cpp","group":"local","local":true}

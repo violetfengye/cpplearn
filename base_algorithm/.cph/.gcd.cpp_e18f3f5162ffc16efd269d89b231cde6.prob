@@ -1,1 +1,0 @@
-{"name":"Local: gcd","url":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\base_algorithm\\gcd.cpp","tests":[{"id":1698207686405,"input":"6 10","output":"2\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\base_algorithm\\gcd.cpp","group":"local","local":true}

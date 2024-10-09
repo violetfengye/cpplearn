@@ -1,1 +1,0 @@
-{"name":"Local: p1314_ai","url":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\luogu\\p1314_ai.cpp","tests":[{"id":1699623625544,"input":"5 3 15 \n1 5 \n2 5 \n3 5 \n4 5 \n5 5 \n1 5 \n2 4 \n3 3","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Reburnfy\\OneDrive\\桌面\\cppcode\\luogu\\p1314_ai.cpp","group":"local","local":true}
